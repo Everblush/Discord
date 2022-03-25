@@ -21,4 +21,4 @@ some css class might not match cause of the language of the client, to solve thi
 then open discord and press `CTRL + SHIFT + I` to open the insepctor and find the right class you need to replace.
 
 ## Credits 💝
-- Creators @nautilor. 
+- Creators [@nautilor](https://github.com/nautilor). 
