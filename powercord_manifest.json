@@ -1,0 +1,8 @@
+{
+    "version": "2.0",
+    "name": "Everblush",
+    "author": "nautilor",
+    "license": "MIT",
+    "theme": "everblush.theme.css",
+    "description": "Everblush for discord!"
+}
