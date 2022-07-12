@@ -16,7 +16,7 @@
 
 ::-webkit-input-placeholder, body, button, input, select, textarea {
 	font-family: var(--font, "Baloo2"), Whitney;
-	background-color: #181f21;
+	background-color: #141b1e;
 }
 
 :root{
@@ -54,19 +54,19 @@
 
 	--unread-badge: #eceff499 !important;
 	--unread-background: #eceff402 !important;
-	--selected-badge: #5e81ac !important;
+	--selected-badge: ##67b0e8 !important;
 	--selected-background: #5e81ac1a !important;
 	--hovered: #81a1c109 !important;
 	--active: #81a1c13d !important;
 }
 
 body {
-	background-color: #181f21;
+	background-color: #141b1e;
 }
 
 .theme-dark{
-	--background-primary: #181f21;
-	--background-primary-alt: #181f21f0;
+	--background-primary: #141b1e;
+	--background-primary-alt: #232a2d;
 	--background-secondary: #181f2150;
 	--background-secondary-chat: #181f21a0;
 	--background-secondary-alt: #181f2100;
@@ -84,14 +84,14 @@ body {
 	--background-emoji: rgb(46, 52, 64);
 	--text-lights-out: #eceff4;
 	--background-titlebar: #181f2150;
-  	--background-secondary: #181f21;
-  	--background-secondary-alt: #181f21;
-  	--background-tertiary: #181f21;
-	--channeltextarea-background: #22292b;
+  	--background-secondary: #141b1e;
+  	--background-secondary-alt: #141b1e;
+  	--background-tertiary: #141b1e;
+	--channeltextarea-background: #232a2d;
 }
 
 .tabBody-2dgbAs {
-	background-color: #181f21 !important;
+	background-color: #141b1e !important;
 }
 
 .theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track-piece {
