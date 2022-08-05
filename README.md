@@ -1,5 +1,6 @@
-
+<div align="center">
 <img align="center" src="./asset/logo.png" height="200px" width="200px" alt="logo"> 
+</div> 
 
 <h2 align="center">Everblush Discord Theme</h2>
 
