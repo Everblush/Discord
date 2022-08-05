@@ -1,3 +1,6 @@
+
+<img align="center" src="./asset/logo.png" > 
+
 <h2 align="center">Everblush Discord Theme</h2>
 
 <p align="center"> 
