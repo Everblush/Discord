@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" src="./asset/logo.png" height="200px" width="200px" alt="logo"> 
+<img align="center" src="https://raw.githubusercontent.com/Everblush/assets/main/logo.png" height="200px" width="200px" alt="logo"> 
 </div> 
 
 <h2 align="center">Everblush Discord Theme</h2>
@@ -12,7 +12,7 @@
 
 ## Preview 
 
-![preview](previews/preview.gif)
+![preview](https://raw.githubusercontent.com/Everblush/assets/main/Discord/preview.gif)
 
 ## Installation
 
